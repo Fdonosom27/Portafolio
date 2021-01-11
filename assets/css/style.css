@@ -1,0 +1,79 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 320%;
+}
+
+h2{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    color: #A2A2A2;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+header{
+background-image: url('../img/bg-2.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top;
+width: auto;
+height: 700px;;
+}
+
+.navbar{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    background-color: black;
+    
+}
+.sbmi{
+background-color: #222D3F;
+}
+
+.exp{
+background-color: #6E041B;
+}
+
+.foto-exp{
+width: auto;
+}
+
+.exp h2{
+font-size: 30pt;
+}
+.botonexp{
+background-color: #222D3F;
+color: white;
+}
+
+footer{
+background-color: black;
+}
+
+.icono a{
+    text-decoration: none;
+    color: white;
+}
+
+.modal-content{
+    background-color: black;}
+
+.modal-title{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+}
+
+.txt-1{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30pt;
+}
